@@ -46,7 +46,7 @@ The following has been created and stored in the Weather_Database folder:
   - Retrieved current weather information including weather description for each city.
   - Created a DataFrame containing the updated weather data and printed to csv file
    
-https://github.com/veenapu/World_Weather_analysis/blob/main/Weather_database/WeatherPy_Database.csv
+  https://github.com/veenapu/World_Weather_analysis/blob/main/Weather_database/WeatherPy_Database.csv
 
 ### Vacation Search
 The following has been created and stored in the Vacation_Search folder:
